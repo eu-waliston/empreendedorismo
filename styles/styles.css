@@ -81,3 +81,37 @@ a {
   font-size: 3rem;
   left: 49%;
 }
+
+
+
+#sobre {
+  background-image: url("../public/images/SOBRE.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#diferencial {
+  background-image: url("../public/images/DIF.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#tecnologias {
+  background-image: url("../public/images/DIF\ \(1\).jpg");
+  background-size: cover;
+  background-position: center;
+
+}
+#publico--alvo {
+  background-image: url("../public/images/DIF\ \(2\).jpg");
+  background-size: cover;
+  background-position: center;
+}
+#design {
+  background-image: url("../public/images/DIF\ \(3\).jpg");
+  background-size: cover;
+  background-position: center;
+}
+#contato {
+  background-image: url("../public/images/DIF.jpg");
+  background-size: cover;
+  background-position: center;
+}  
